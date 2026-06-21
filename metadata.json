@@ -1,0 +1,6 @@
+{
+  "name": "Badminton Score Tracker",
+  "description": "A high-tech badminton score tracker with voice-controlled scoring, real-time scoreboard synchronization, player statistics, and academy management.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
